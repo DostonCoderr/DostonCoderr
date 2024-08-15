@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Doston</h1>
 <h3 align="center">I'am Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
+<img align="right" alt="Coding" src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doston1232696&label=Profile%20views&color=0e75b6&style=flat" alt="doston1232696" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doston1232696" alt="doston1232696" /></a> </p>
