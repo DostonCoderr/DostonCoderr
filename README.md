@@ -1,6 +1,10 @@
+<a target="_blank" align="center">
+<img align="right" alt="Coding" src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
+</a>
+	
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Doston</a></h1>
+<h3 align="center">A passionate Frontend developer from Uzbekistan &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,7 +16,7 @@ Saurabh</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Frontend Developing
 
 - 🤝 I’m available for freelancing.
 
@@ -20,11 +24,11 @@ Saurabh</a></h1>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs & Nextjs & Threejs**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **otkurovdoston69@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences>Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
