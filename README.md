@@ -8,7 +8,7 @@ Doston</a></h1>
 
 
 
-<p align="left"> <a href="https://twitter.com/d_otkurov" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d_otkurov" target="blank"><img src="https://img.shields.io/twitter/follow/My Twitter?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <a target="_blank" align="center">
