@@ -8,7 +8,7 @@ Doston</a></h1>
 
 
 
-<p align="left"> <a href="https://twitter.com/d_otkurov" target="blank"><img src="https://img.shields.io/twitter/follow/d_otkurov?logo=twitter&style=for-the-badge" alt="" /></a> MY </p>
+<p align="left"> <a href="https://twitter.com/d_otkurov" target="blank"><img src="https://img.shields.io/twitter/follow/d_otkurov?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 
 <a target="_blank" align="center">
@@ -35,6 +35,14 @@ Doston</a></h1>
 
 - 📄 Know about my experiences>Resume</a>
 <br/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
