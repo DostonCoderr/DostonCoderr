@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
 </a>
 	
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Doston</a></h1>
 <h3 align="center">A passionate Frontend developer from Uzbekistan &#127470;&#127475</h3>
 
