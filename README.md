@@ -25,9 +25,9 @@ Doston</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://threejs.org/examples/#webgl_panorama_cube" target="blank">Three js</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Reactjs & Nextjs & Threejs**
 
@@ -83,9 +83,9 @@ Doston</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Learning Three js Ds](https://threejs.org/)
+- [React templates](https://www.creative-tim.com/templates/react-free)
+- [About My Country Learn UZBEKISTAN](https://www.britannica.com/place/Uzbekistan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
