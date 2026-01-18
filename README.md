@@ -4,7 +4,7 @@
 	
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Doston</a></h1>
-<h3 align="center">A passionate Frontend developer from Uzbekistan &#127470;&#127475</h3>
+<h3 align="center">A passionate Frontend developer from Uzbekistan 🇺🇿</h3>
 
 
 
