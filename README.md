@@ -8,23 +8,23 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### 👤 callsign: `ZERO-TRACE`
 
 - 🧠 **Full-Stack Developer** · **DevOps** · **Cyber Security** · **AI Engineer**
-- 🔭 Hozirda **Griffyn Robotech Pvt. Ltd.**da ishlayapman
-- 🛡️ Penetratsion testing, xavfsizlik audit va avtomatlashtirilgan security tooling bilan shug'ullanaman
-- ⚙️ Backend'dan infratuzilmagacha, frontend'dan AI modellargacha — to'liq stack
-- 🌱 Hozirgi paytda **Swift, SwiftUI**, **Three.js** va **AI/ML** yo'nalishida chuqurlashmoqdaman
-- 🤝 Freelance loyihalar uchun ochiqman
-- 💬 Menga **React, Next.js, DevOps, Cyber Security, AI**dan so'rang
-- 📫 Bog'lanish: **otkurovdoston69@gmail.com**
+- 🔭 Currently working at **Griffyn Robotech Pvt. Ltd.**
+- 🛡️ Penetration testing, security audits & building automated security tooling
+- ⚙️ From backend to infrastructure, from frontend to AI models — full stack, every layer
+- 🌱 Currently deepening my skills in **Swift, SwiftUI**, **Three.js** and **AI/ML**
+- 🤝 Open to freelance projects
+- 💬 Ask me about **React, Next.js, DevOps, Cyber Security, AI**
+- 📫 Reach me at **otkurovdoston69@gmail.com**
 - ⚡ *"Trust nothing. Verify everything."*
 
 </td>
-<td width="40%" valign="top" align="center">
-<img src="https://media.giphy.com/media/qYpqHm0BZDbaU/giphy.gif" width="100%" style="border-radius: 12px;"/>
+<td width="45%" valign="top" align="center">
+<img src="./assets/sidebar-terminal.svg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -37,7 +37,21 @@
 
 <img src="./assets/now-playing.svg" width="420"/>
 
-<sub>static widget — real vaqtdagi Spotify uchun <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> ulash mumkin</sub>
+<sub>static widget — connect <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> for real-time data</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎬 Featured Video
+
+<a href="https://www.youtube.com/watch?v=VIDEO_ID_BUYERGA" target="_blank">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_BUYERGA/maxresdefault.jpg" width="70%" style="border-radius: 12px; border: 1px solid #00ff9d55;"/>
+</a>
+
+<sub>⚠️ placeholder — send me your real YouTube link and I'll swap the ID in</sub>
 
 </div>
 
@@ -60,9 +74,11 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030503&title_color=00FF9D&icon_color=00FF9D&text_color=B7FFE0"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=030503&title_color=00FF9D&text_color=B7FFE0"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DostonCoderr&bg_color=030503&color=00FF9D&line=00FF9D&point=B7FFE0&area=true&hide_border=true" width="90%"/>
+<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/main/metrics.svg" width="90%"/>
+
+<sub>self-hosted via GitHub Actions — see setup notes below</sub>
 
 </div>
 
@@ -74,7 +90,47 @@
 
 <img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>ishlashi uchun repoda snake GitHub Action sozlangan bo'lishi kerak</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+### 📜 Certificates
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./assets/certificates/cert1.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
+<br><sub>Certificate name</sub>
+</td>
+<td align="center" width="33%">
+<img src="./assets/certificates/cert2.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
+<br><sub>Certificate name</sub>
+</td>
+<td align="center" width="33%">
+<img src="./assets/certificates/cert3.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
+<br><sub>Certificate name</sub>
+</td>
+</tr>
+</table>
+
+<sub>⚠️ placeholder — send your certificate images and real titles, I'll wire them in</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎮 Gaming
+
+<a href="STEAM_PROFILE_URL_BUYERGA" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-CS2-00FF9D?style=for-the-badge&logo=steam&logoColor=030503" />
+</a>
+<img src="https://img.shields.io/badge/Currently%20Playing-Counter--Strike%202-00FF9D?style=for-the-badge&logo=counterstrike&logoColor=030503" />
+
+<sub>⚠️ placeholder — send your Steam profile link and I'll connect it (live playtime widget also possible)</sub>
 
 </div>
 
