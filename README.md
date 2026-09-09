@@ -1,521 +1,184 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Doston Otkurov Cyber Security Banner"/>
-
-<br/>
-
-<img src="./assets/profile.gif" width="170" alt="Profile"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Cyber+Security+%7C+Full+Stack+Developer;Security+Engineering+%7C+Automation;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+secure+systems+from+zero;Always+learning.+Always+testing." alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=DostonCoderr&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 </div>
 
----
+<br>
 
-# `> whoami`
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM IDENTITY                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME       : Doston Otkurov                                 │
-│  CALLSIGN   : ZERO-TRACE                                     │
-│  ROLE       : Cyber Security / Full Stack Developer          │
-│  LOCATION   : Tashkent, Uzbekistan                           │
-│  STATUS     : ONLINE                                          │
-│  MISSION    : Build • Secure • Automate • Learn              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### 👤 callsign: `ZERO-TRACE`
 
-> ⚡ **Trust nothing. Verify everything.**
+- 🧠 **Full-Stack Developer** · **DevOps** · **Cyber Security** · **AI Engineer**
+- 🔭 Currently working at **Griffyn Robotech Pvt. Ltd.**
+- 🛡️ Penetration testing, security audits & building automated security tooling
+- ⚙️ From backend to infrastructure, from frontend to AI models — full stack, every layer
+- 🌱 Currently deepening my skills in **Swift, SwiftUI**, **Three.js** and **AI/ML**
+- 🤝 Open to freelance projects
+- 💬 Ask me about **React, Next.js, DevOps, Cyber Security, AI**
+- 📫 Reach me at **otkurovdoston69@gmail.com**
+
+<p align="center" style="border-top: 1px solid #00ff9d55; padding-top: 10px; margin-top: 14px;">
+⚡ <i>"Trust nothing. Verify everything."</i>
+</p>
+
+</td>
+<td width="45%" valign="top" align="center">
+<img src="./assets/sidebar-terminal.svg" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img src="./assets/sidebar-terminal.svg" width="760" alt="Animated Terminal"/>
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=novatorem&show_offline=false&background_color=030503&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=false&bar_color=00ff9d">
+  </a>
+</p>
 
 </div>
 
----
-
-## `// ABOUT_ME`
-
-```yaml
-name: Doston Otkurov
-alias: ZERO-TRACE
-
-role:
-  - Cyber Security Specialist
-  - Full Stack Developer
-  - Security Automation Engineer
-
-focus:
-  - Application Security
-  - Network Security
-  - Security Monitoring
-  - Automation
-  - Secure Backend Architecture
-  - AI + Cyber Security
-
-languages:
-  - Uzbek
-  - Russian
-  - English
-
-philosophy:
-  - Build secure systems
-  - Automate repetitive work
-  - Understand the attack surface
-  - Verify before trusting
-```
-
----
-
-## `// CURRENT OPERATING MODE`
+<br>
 
 <div align="center">
 
-`[ CYBER SECURITY ]`
-`[ FULL STACK ]`
-`[ AUTOMATION ]`
-`[ AI SECURITY ]`
-`[ NETWORKING ]`
+### 🎬 Featured Video
 
-</div>
-
----
-
-## `// CURRENT_FOCUS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     CURRENT OBJECTIVES                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] Security Engineering                                  ║
-║      └─ Monitoring • Detection • Hardening                   ║
-║                                                              ║
-║  [02] Full Stack Development                                 ║
-║      └─ React • Node.js • Python • APIs                      ║
-║                                                              ║
-║  [03] Security Automation                                    ║
-║      └─ Scripts • Integrations • Security Workflows          ║
-║                                                              ║
-║  [04] AI + Cyber Security                                    ║
-║      └─ AI-assisted detection • Analysis • Automation        ║
-║                                                              ║
-║  [05] Network Security                                       ║
-║      └─ Traffic • Infrastructure • Monitoring                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `// SECURITY & DEVELOPMENT ARSENAL`
-
-### 🛡️ Cyber Security
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Network_Security-111111?style=for-the-badge&logo=icloud&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SOC-111111?style=for-the-badge&logo=securityscorecard&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logo=elastic&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/ESET-111111?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Palo_Alto-111111?style=for-the-badge&logo=paloaltonetworks&logoColor=00ff88"/>
-
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi"/>
-
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css"/>
-
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis"/>
-
-</p>
-
-### ☁️ DevOps / Infrastructure
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions"/>
-
-</p>
-
-### 🤖 AI / Security AI
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google&logoColor=00ff88"/>
-
-</p>
-
----
-
-# `// SPOTIFY // CURRENTLY_PLAYING`
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true">
-
-<img
-src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=default&show_offline=false&background_color=030503&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=false"
-width="600"
-alt="Spotify Currently Playing"
-/>
-
+<a href="https://youtu.be/-BfEENRBAyg" target="_blank">
+  <img src="https://img.youtube.com/vi/-BfEENRBAyg/hqdefault.jpg" width="70%" style="border-radius: 12px; border: 1px solid #00ff9d55;"/>
 </a>
 
 </div>
 
----
-
-# `// FEATURED VIDEO`
+<br>
 
 <div align="center">
 
-<a href="https://youtu.be/-BfEENRBAyg">
+### 🛠️ Tech Stack
 
-<img
-src="https://img.youtube.com/vi/-BfEENRBAyg/maxresdefault.jpg"
-width="700"
-alt="Featured YouTube Video"
-/>
-
-</a>
-
-<br/>
-
-`▶ CLICK TO WATCH`
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,nodejs,python,docker,kubernetes,aws,linux,git,figma,swift,tensorflow&theme=dark" />
 
 </div>
 
----
-
-# `// SECURITY_MINDSET`
-
-```text
-                  ┌────────────────────────────┐
-                  │       SECURITY MINDSET     │
-                  └─────────────┬──────────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-        ┌──────────┐      ┌──────────┐      ┌──────────┐
-        │ ASSUME   │      │ VERIFY   │      │ MONITOR  │
-        │ BREACH   │ ───► │ EVERYTHING│ ───►│ ALWAYS   │
-        └──────────┘      └──────────┘      └────┬─────┘
-                                                 │
-                                                 ▼
-                                          ┌──────────────┐
-                                          │ RESPOND FAST │
-                                          └──────────────┘
-```
-
----
-
-# `// SELECTED_PROJECTS`
-
-### 🔐 CyberOS AI
-
-> AI-powered cyber risk analysis and security automation platform.
-
-```text
-CyberOS AI
-│
-├── Risk Analysis
-├── Security Monitoring
-├── AI Assistant
-├── Threat Detection
-├── Security Automation
-├── SQL / Database Security
-└── Cyber Risk Dashboard
-```
-
----
-
-### 👤 Face ID Security System
-
-```text
-Camera
-   │
-   ▼
-OpenCV
-   │
-   ▼
-Face Detection
-   │
-   ▼
-DeepFace
-   │
-   ▼
-FastAPI
-   │
-   ▼
-Database
-   │
-   ▼
-Security Event
-```
-
----
-
-### 🗺️ National Map / Routing Platform
-
-```text
-OpenStreetMap
-      │
-      ▼
-   MapLibre
-      │
-      ▼
- PostgreSQL
-   + PostGIS
-      │
-      ▼
- GraphHopper
-      │
-      ▼
- Routing API
-      │
-      ▼
- Web Application
-```
-
----
-
-### 📚 Book Store Platform
-
-```text
-React
-  │
-  ▼
-Node.js / Express
-  │
-  ├───────────────┐
-  ▼               ▼
-MongoDB        Telegram Bot
-  │               │
-  └───────┬───────┘
-          ▼
-      Admin Panel
-```
-
----
-
-# `// GITHUB ANALYTICS`
+<br>
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&hide_border=true&theme=dark&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=050505"
-height="180"
-alt="GitHub Stats"
-/>
+### 📊 GitHub Analytics
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&hide_border=true&theme=dark&title_color=00ff88&text_color=c9d1d9&bg_color=050505"
-height="180"
-alt="Top Languages"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030503&title_color=00FF9D&icon_color=00FF9D&text_color=B7FFE0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=030503&title_color=00FF9D&text_color=B7FFE0"/>
+
+<img src="https://streak-stats.demolab.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
+
+<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/main/metrics.svg" width="90%"/>
+
+<sub>self-hosted via GitHub Actions — see setup notes below</sub>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=DostonCoderr&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"
-width="700"
-alt="GitHub Streak"
-/>
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
----
-
-# `// CONTRIBUTION ACTIVITY`
+<br>
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/output/github-contribution-grid-snake.svg"
-width="900"
-alt="Contribution Snake"
-/>
-
-</div>
-
----
-
-# `// GITHUB TROPHIES`
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=DostonCoderr&theme=matrix&no-frame=true&no-bg=true&margin-w=8"
-width="900"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# `// CERTIFICATIONS`
-
-<div align="center">
+### 📜 Certificates
 
 <table>
 <tr>
-
-<td align="center">
-<img src="./assets/certificates/cert_linux_admin.jpg" width="230"/>
-<br/>
-<b>Linux Administration</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_linux_admin.jpg"><img src="./assets/certificates/cert_linux_admin.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Linux Network Administrator</b><br>Alison</sub>
 </td>
-
-<td align="center">
-<img src="./assets/certificates/cert_cyberlaw.jpg" width="230"/>
-<br/>
-<b>Cyber Law</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_cyberlaw.jpg"><img src="./assets/certificates/cert_cyberlaw.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Introduction to Cyber Law</b><br>Alison</sub>
 </td>
-
-<td align="center">
-<img src="./assets/certificates/cert_ai_cybersecurity.jpg" width="230"/>
-<br/>
-<b>AI & Cyber Security</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_ai_cybersecurity.jpg"><img src="./assets/certificates/cert_ai_cybersecurity.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>AI in Cybersecurity: Vulnerability, Intelligence, Security & Ethics</b><br>Alison</sub>
 </td>
-
 </tr>
-
 <tr>
-
-<td align="center">
-<img src="./assets/certificates/cert_paloalto.jpg" width="230"/>
-<br/>
-<b>Palo Alto</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_paloalto.jpg"><img src="./assets/certificates/cert_paloalto.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Next-Gen Firewall — Ultimate Test Drive</b><br>Palo Alto Networks × BakoTech</sub>
 </td>
-
-<td align="center">
-<img src="./assets/certificates/cert_five_million_ai.jpg" width="230"/>
-<br/>
-<b>AI Program</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_five_million_ai.jpg"><img src="./assets/certificates/cert_five_million_ai.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Five Million AI Leaders</b><br>UAE × Uzbekistan Gov. Initiative</sub>
 </td>
-
-<td align="center">
-<img src="./assets/certificates/cert_infowatch.jpg" width="230"/>
-<br/>
-<b>InfoWatch</b>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_infowatch.jpg"><img src="./assets/certificates/cert_infowatch.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>InfoWatch Traffic Monitor 7 Specialist</b><br>InfoWatch</sub>
 </td>
-
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_softdev.jpg"><img src="./assets/certificates/cert_softdev.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Software Development</b><br>Training Program, Tashkent</sub>
+</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
 </div>
 
----
-
-# `// GAMING MODE`
+<br>
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════╗
-║              GAMING MODE                 ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  CS2          ████████████████████  100% ║
-║  PUBG         ██████████████████░░   90% ║
-║  Forza        ███████████████░░░░░   75% ║
-║  GTA          █████████████████░░░░   85% ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+### 🎮 Gaming
+
+<img src="./assets/gaming-status.svg" width="90%"/>
+
+<a href="https://steamcommunity.com/profiles/76561198794531320/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Profile-00FF9D?style=for-the-badge&logo=steam&logoColor=030503" />
+</a>
+<img src="https://img.shields.io/badge/Currently%20Playing-Counter--Strike%202-00FF9D?style=for-the-badge&logo=counterstrike&logoColor=030503" />
 
 </div>
 
----
-
-# `// CONNECT`
+<br>
 
 <div align="center">
 
-<a href="https://github.com/DostonCoderr">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a>
+### 🤝 Connect
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
-</a>
+<a href="https://www.linkedin.com/in/doston-otkurov-a686212a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00FF9D?style=for-the-badge&logo=linkedin&logoColor=030503" /></a>
+<a href="https://instagram.com/dostonck_me" target="_blank"><img src="https://img.shields.io/badge/Instagram-00FF9D?style=for-the-badge&logo=instagram&logoColor=030503" /></a>
+<a href="https://twitter.com/d_otkurov" target="_blank"><img src="https://img.shields.io/badge/Twitter-00FF9D?style=for-the-badge&logo=x&logoColor=030503" /></a>
+<a href="https://stackoverflow.com/users/12053852/DostonCoderr" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-00FF9D?style=for-the-badge&logo=stackoverflow&logoColor=030503" /></a>
+<a href="https://www.youtube.com/@134Blackninj1" target="_blank"><img src="https://img.shields.io/badge/YouTube-00FF9D?style=for-the-badge&logo=youtube&logoColor=030503" /></a>
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=00ff88"/>
-</a>
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=DostonCoderr&style=for-the-badge&color=00ff9d&label=Profile+Views" alt="Profile Views"/>
 
----
+<br><br>
 
-# `// SUPPORT`
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/">
-
-<img
-src="https://img.shields.io/badge/BUY_ME_A_COFFEE-00ff88?style=for-the-badge&logo=buymeacoffee&logoColor=000000"
-alt="Buy Me A Coffee"
-/>
-
+<a href="https://www.buymeacoffee.com/dostoncoder" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dostoncoder"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Animated Footer"/>
-
-<br/>
-
-```text
-[ SYSTEM STATUS : ONLINE ]
-[ SECURITY LEVEL : ACTIVE ]
-[ MODE : ZERO-TRACE ]
-```
-
-<br/>
-
-<sub>© Doston Otkurov — Built with code, curiosity and a security mindset.</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:0a1a12,100:020402&height=120&section=footer" width="100%"/>
