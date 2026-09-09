@@ -47,11 +47,9 @@
 
 ### 🎬 Featured Video
 
-<a href="https://www.youtube.com/watch?v=VIDEO_ID_BUYERGA" target="_blank">
-  <img src="https://img.youtube.com/vi/VIDEO_ID_BUYERGA/maxresdefault.jpg" width="70%" style="border-radius: 12px; border: 1px solid #00ff9d55;"/>
+<a href="https://youtu.be/-BfEENRBAyg" target="_blank">
+  <img src="https://img.youtube.com/vi/-BfEENRBAyg/maxresdefault.jpg" width="70%" style="border-radius: 12px; border: 1px solid #00ff9d55;"/>
 </a>
-
-<sub>⚠️ placeholder — send me your real YouTube link and I'll swap the ID in</sub>
 
 </div>
 
@@ -101,21 +99,41 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="./assets/certificates/cert1.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
-<br><sub>Certificate name</sub>
+<a href="./assets/certificates/cert_linux_admin.jpg"><img src="./assets/certificates/cert_linux_admin.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Linux Network Administrator</b><br>Alison</sub>
 </td>
 <td align="center" width="33%">
-<img src="./assets/certificates/cert2.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
-<br><sub>Certificate name</sub>
+<a href="./assets/certificates/cert_cyberlaw.jpg"><img src="./assets/certificates/cert_cyberlaw.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Introduction to Cyber Law</b><br>Alison</sub>
 </td>
 <td align="center" width="33%">
-<img src="./assets/certificates/cert3.png" width="90%" style="border-radius:8px; border:1px solid #00ff9d55;"/>
-<br><sub>Certificate name</sub>
+<a href="./assets/certificates/cert_ai_cybersecurity.jpg"><img src="./assets/certificates/cert_ai_cybersecurity.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>AI in Cybersecurity: Vulnerability, Intelligence, Security & Ethics</b><br>Alison</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_paloalto.jpg"><img src="./assets/certificates/cert_paloalto.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Next-Gen Firewall — Ultimate Test Drive</b><br>Palo Alto Networks × BakoTech</sub>
+</td>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_five_million_ai.jpg"><img src="./assets/certificates/cert_five_million_ai.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Five Million AI Leaders</b><br>UAE × Uzbekistan Gov. Initiative</sub>
+</td>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_infowatch.jpg"><img src="./assets/certificates/cert_infowatch.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>InfoWatch Traffic Monitor 7 Specialist</b><br>InfoWatch</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="./assets/certificates/cert_softdev.jpg"><img src="./assets/certificates/cert_softdev.jpg" width="100%" style="border-radius:8px; border:1px solid #00ff9d55;"/></a>
+<br><sub><b>Software Development</b><br>Training Program, Tashkent</sub>
+</td>
+<td></td>
+<td></td>
+</tr>
 </table>
-
-<sub>⚠️ placeholder — send your certificate images and real titles, I'll wire them in</sub>
 
 </div>
 
@@ -125,12 +143,10 @@
 
 ### 🎮 Gaming
 
-<a href="STEAM_PROFILE_URL_BUYERGA" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-CS2-00FF9D?style=for-the-badge&logo=steam&logoColor=030503" />
+<a href="https://steamcommunity.com/profiles/76561198794531320/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Profile-00FF9D?style=for-the-badge&logo=steam&logoColor=030503" />
 </a>
 <img src="https://img.shields.io/badge/Currently%20Playing-Counter--Strike%202-00FF9D?style=for-the-badge&logo=counterstrike&logoColor=030503" />
-
-<sub>⚠️ placeholder — send your Steam profile link and I'll connect it (live playtime widget also possible)</sub>
 
 </div>
 
