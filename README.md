@@ -38,11 +38,7 @@
 
 ### 🎧 Now Playing
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=novatorem&show_offline=true&background_color=030503&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=false&bar_color=00ff9d">
-  </a>
-</p>
+<p align="center"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=novatorem&show_offline=true&background_color=030503&interchange=false&profanity=true&hide_remaster=true&bar_color_cover=false&bar_color=00ff9d"> </a> </p> </div> <br> <div align="center">
 
 </div>
 
