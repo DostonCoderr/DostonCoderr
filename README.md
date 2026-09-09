@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" src="https://media.gifdb.com/document-function-coding-7ym5bmzpd6tb5wn3.gif">
 </a>
 	
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+<h1 align="center">Hi 👋, I'm Doston <a href="" target="blank">
 Doston</a></h1>
 <h3 align="center">A passionate Frontend developer from Uzbekistan 🇺🇿</h3>
 
