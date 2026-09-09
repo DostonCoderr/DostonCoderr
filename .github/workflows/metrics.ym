@@ -1,0 +1,48 @@
+name: Metrics
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 */12 * * *"   # har 12 soatda yangilanadi
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DostonCoderr
+
+          # --- umumiy ko'rinish ---
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # --- qo'shimcha modullar ("ko'proq") ---
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_lines: yes
+
+          plugin_topics: yes
+          plugin_topics_limit: 8
+
+          plugin_calendar: yes
