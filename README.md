@@ -38,7 +38,11 @@
 
 ### 🎧 Now Playing
 
-<p align="center"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true"> <img width="600" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=novatorem&show_offline=true&background_color=030503&interchange=false&profanity=true&hide_remaster=true&bar_color_cover=false&bar_color=00ff9d"> </a> </p> </div> <br> <div align="center">
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&redirect=true">
+    <img width="600" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5genmvezn7qo7cdess25msha&cover_image=true&theme=novatorem&show_offline=true&background_color=030503&interchange=false&profanity=true&hide_remaster=true&bar_color_cover=false&bar_color=00ff9d">
+  </a>
+</p>
 
 </div>
 
@@ -60,7 +64,35 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,nodejs,python,docker,kubernetes,aws,linux,git,figma,swift,tensorflow&theme=dark" />
+<sub>→ tools I reach for across the full stack, from pixels to production to protection</sub>
+
+<table>
+<tr><td align="center">
+
+<sub>⚛️ <b>FRONTEND</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,html,css,tailwind,figma&theme=dark&perline=9" />
+
+</td></tr>
+<tr><td align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<sub>⚙️ <b>BACKEND · DEVOPS · INFRASTRUCTURE</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,docker,kubernetes,terraform,aws,githubactions,nginx,linux,bash,git&theme=dark&perline=11" />
+
+</td></tr>
+<tr><td align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<sub>🛡️ <b>SECURITY · AI/ML · MOBILE</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,swift,vscode&theme=dark&perline=5" />
+
+</td></tr>
+</table>
 
 </div>
 
@@ -72,6 +104,10 @@
 
 
 <img src="https://streak-stats.demolab.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
+
+<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/main/metrics.svg" width="90%"/>
+
+<sub>self-hosted via GitHub Actions — see setup notes below</sub>
 
 </div>
 
