@@ -1,93 +1,87 @@
-<a target="_blank" align="center">
-<img align="right" alt="Coding" src="https://media.gifdb.com/document-function-coding-7ym5bmzpd6tb5wn3.gif">
-</a>
-	
-<h1 align="center">Hi 👋, I'm Doston <a href="" target="blank">
-Doston</a></h1>
-<h3 align="center">A passionate Frontend developer from Uzbekistan 🇺🇿</h3>
+<div align="center">
 
+<img src="./assets/banner.svg" width="100%"/>
 
+</div>
 
-<p align="left"> <a href="https://twitter.com/d_otkurov" target="blank"><img src="https://img.shields.io/twitter/follow/d_otkurov?logo=twitter&style=for-the-badge" alt="" /></a></p>
+<br>
 
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+### 👨‍💻 Men haqimda
 
+- 🔭 Hozirda **Griffyn Robotech Pvt. Ltd.**da ishlayapman
+- 🌱 Frontend development bo'yicha rivojlanishda davom etmoqdaman
+- 🤝 Freelance loyihalar uchun ochiqman
+- 🎯 Hozirgi paytda **Swift, SwiftUI** va **Three.js** o'rganmoqdaman
+- 💬 Menga **React.js, Next.js, Three.js** haqida savol berishingiz mumkin
+- 📫 Bog'lanish: **otkurovdoston69@gmail.com**
+- ⚡ Qiziqarli fakt: dizayn va kod — men uchun bir xil san'at
 
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius: 12px;"/>
+</td>
+</tr>
+</table>
 
-
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Frontend Developing
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://threejs.org/examples/#webgl_panorama_cube" target="blank">Three js</a>
-
-- 📝 I regularly write articles on 
-
-- 💬 Ask me about **Reactjs & Nextjs & Threejs**
-
-- 📫 How to reach me **otkurovdoston69@gmail.com**
-
-- 📄 Know about my experiences>Resume</a>
-<br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DostonCoderr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/doston-otkurov-a686212a8/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/DostonCoderr">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/DostonCoderr?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/dostonck_me">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/d_otkurov">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/@134Blackninj1">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-      </div>
-
-</p>
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<br>
 
 <div align="center">
 
-<h3 align="center">Support:</h3>
-<p><a   href="https://www.buymeacoffee.com/dostoncoder"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dostoncoder" /></a></p><br><br>
+### 🛠️ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,html,css,tailwind,figma,swift,git,vscode&theme=dark" />
 
+</div>
 
+<br>
 
-### Blogs posts
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
+### 📊 GitHub Analytics
 
-- [Learning Three js Ds](https://threejs.org/)
-- [React templates](https://www.creative-tim.com/templates/react-free)
-- [About My Country Learn UZBEKISTAN](https://www.britannica.com/place/Uzbekistan)
-<!-- BLOG-POST-LIST:END -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F5F5F0"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DostonCoderr&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F0&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=8A8A8A" width="70%"/>
 
+</div>
 
+<br>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Bog'lanish
+
+<a href="https://www.linkedin.com/in/doston-otkurov-a686212a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
+<a href="https://instagram.com/dostonck_me" target="_blank"><img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=0D0D0D" /></a>
+<a href="https://twitter.com/d_otkurov" target="_blank"><img src="https://img.shields.io/badge/Twitter-D4AF37?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
+<a href="https://stackoverflow.com/users/12053852/DostonCoderr" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-D4AF37?style=for-the-badge&logo=stackoverflow&logoColor=0D0D0D" /></a>
+<a href="https://www.youtube.com/@134Blackninj1" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=0D0D0D" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DostonCoderr&style=for-the-badge&color=d4af37&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/dostoncoder" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dostoncoder"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:1a1a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
