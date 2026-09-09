@@ -74,10 +74,8 @@
 
 ### 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030503&title_color=00FF9D&icon_color=00FF9D&text_color=B7FFE0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=030503&title_color=00FF9D&text_color=B7FFE0"/>
 
-
+<img src="https://streak-stats.demolab.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
 
 </div>
 
