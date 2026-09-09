@@ -79,9 +79,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
 
-<img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/main/metrics.svg" width="90%"/>
-
-<sub>self-hosted via GitHub Actions — see setup notes below</sub>
 
 </div>
 
