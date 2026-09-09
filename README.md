@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 </div>
 
@@ -10,19 +10,21 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 Men haqimda
+### 👤 callsign: `ZERO-TRACE`
 
+- 🧠 **Full-Stack Developer** · **DevOps** · **Cyber Security** · **AI Engineer**
 - 🔭 Hozirda **Griffyn Robotech Pvt. Ltd.**da ishlayapman
-- 🌱 Frontend development bo'yicha rivojlanishda davom etmoqdaman
+- 🛡️ Penetratsion testing, xavfsizlik audit va avtomatlashtirilgan security tooling bilan shug'ullanaman
+- ⚙️ Backend'dan infratuzilmagacha, frontend'dan AI modellargacha — to'liq stack
+- 🌱 Hozirgi paytda **Swift, SwiftUI**, **Three.js** va **AI/ML** yo'nalishida chuqurlashmoqdaman
 - 🤝 Freelance loyihalar uchun ochiqman
-- 🎯 Hozirgi paytda **Swift, SwiftUI** va **Three.js** o'rganmoqdaman
-- 💬 Menga **React.js, Next.js, Three.js** haqida savol berishingiz mumkin
+- 💬 Menga **React, Next.js, DevOps, Cyber Security, AI**dan so'rang
 - 📫 Bog'lanish: **otkurovdoston69@gmail.com**
-- ⚡ Qiziqarli fakt: dizayn va kod — men uchun bir xil san'at
+- ⚡ *"Trust nothing. Verify everything."*
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius: 12px;"/>
+<img src="https://media.giphy.com/media/qYpqHm0BZDbaU/giphy.gif" width="100%" style="border-radius: 12px;"/>
 </td>
 </tr>
 </table>
@@ -31,9 +33,21 @@
 
 <div align="center">
 
+### 🎧 Now Playing
+
+<img src="./assets/now-playing.svg" width="420"/>
+
+<sub>static widget — real vaqtdagi Spotify uchun <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> ulash mumkin</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,html,css,tailwind,figma,swift,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,nodejs,python,docker,kubernetes,aws,linux,git,figma,swift,tensorflow&theme=dark" />
 
 </div>
 
@@ -43,10 +57,12 @@
 
 ### 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F5F5F0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DostonCoderr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030503&title_color=00FF9D&icon_color=00FF9D&text_color=B7FFE0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonCoderr&layout=compact&langs_count=8&hide_border=true&bg_color=030503&title_color=00FF9D&text_color=B7FFE0"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DostonCoderr&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F0&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=8A8A8A" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DostonCoderr&hide_border=true&background=030503&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=B7FFE0&currStreakNum=B7FFE0&sideNums=B7FFE0&dates=6DAB8C" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DostonCoderr&bg_color=030503&color=00FF9D&line=00FF9D&point=B7FFE0&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -58,23 +74,25 @@
 
 <img src="https://raw.githubusercontent.com/DostonCoderr/DostonCoderr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
+<sub>ishlashi uchun repoda snake GitHub Action sozlangan bo'lishi kerak</sub>
+
 </div>
 
 <br>
 
 <div align="center">
 
-### 🤝 Bog'lanish
+### 🤝 Connect
 
-<a href="https://www.linkedin.com/in/doston-otkurov-a686212a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
-<a href="https://instagram.com/dostonck_me" target="_blank"><img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=0D0D0D" /></a>
-<a href="https://twitter.com/d_otkurov" target="_blank"><img src="https://img.shields.io/badge/Twitter-D4AF37?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
-<a href="https://stackoverflow.com/users/12053852/DostonCoderr" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-D4AF37?style=for-the-badge&logo=stackoverflow&logoColor=0D0D0D" /></a>
-<a href="https://www.youtube.com/@134Blackninj1" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=0D0D0D" /></a>
+<a href="https://www.linkedin.com/in/doston-otkurov-a686212a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00FF9D?style=for-the-badge&logo=linkedin&logoColor=030503" /></a>
+<a href="https://instagram.com/dostonck_me" target="_blank"><img src="https://img.shields.io/badge/Instagram-00FF9D?style=for-the-badge&logo=instagram&logoColor=030503" /></a>
+<a href="https://twitter.com/d_otkurov" target="_blank"><img src="https://img.shields.io/badge/Twitter-00FF9D?style=for-the-badge&logo=x&logoColor=030503" /></a>
+<a href="https://stackoverflow.com/users/12053852/DostonCoderr" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-00FF9D?style=for-the-badge&logo=stackoverflow&logoColor=030503" /></a>
+<a href="https://www.youtube.com/@134Blackninj1" target="_blank"><img src="https://img.shields.io/badge/YouTube-00FF9D?style=for-the-badge&logo=youtube&logoColor=030503" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DostonCoderr&style=for-the-badge&color=d4af37&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=DostonCoderr&style=for-the-badge&color=00ff9d&label=Profile+Views" alt="Profile Views"/>
 
 <br><br>
 
@@ -84,4 +102,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:1a1a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:0a1a12,100:020402&height=120&section=footer" width="100%"/>
